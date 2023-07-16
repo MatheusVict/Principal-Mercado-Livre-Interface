@@ -3,4 +3,7 @@
 
     <string name="txt_search">Buscar no mercado Livre</string>
     <string name="txt_location">Enviar para Matheus Victor - Rua 171</string>
+    <string name="txt_title_last_viewed">Inspirado no último visto</string>
+    <string name="txt_see_more">Ver mais</string>
+    <string name="txt_buy_more">Compre ainda mais...</string>
 </resources>
